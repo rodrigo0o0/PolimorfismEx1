@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\bin\Debug\PolimorfismEx1.exe.config
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\bin\Debug\PolimorfismEx1.exe
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\bin\Debug\PolimorfismEx1.pdb
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\obj\Debug\PolimorfismEx1.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\obj\Debug\PolimorfismEx1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\obj\Debug\PolimorfismEx1.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\obj\Debug\PolimorfismEx1.exe
+C:\Users\sande\source\repos\PolimorfismEx1\PolimorfismEx1\obj\Debug\PolimorfismEx1.pdb
